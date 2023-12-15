@@ -14,7 +14,7 @@
 - **Operating Systems:** Linux
 - **Data Structures and Algorithms**
 - **Cloud and Platforms:** Kubernetes, Red Hat OpenShift, Docker
-- **Frameworks:** Spring Boot, Spring MVC
+- **Frameworks:** Spring Boot, Spring MVC, Django
 - **ETL (Extract, Transform, Load) Pipeline** : Mage-Ai, Apache Airflow, Snowflakes
 - **Deep Learning** , **Transfer Learning**
 - **Project / Program Management**
