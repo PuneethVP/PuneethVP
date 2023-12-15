@@ -38,9 +38,9 @@
   - Project and Program Management skills for delivering continuous quality applications.
 
 ### 🌱 I’m currently learning and deep diving
-  - Fine-tuning LLM models
-  - NLP and Computer Vision models
-  - ML application in software tools improves productivity
+  - LLM models
+  - NLP and Computer Vision applications
+  - ML application in software tools that improves productivity
 
 
 Note : (This is a fresh Git Profile  for better viewing for portfolio purpose and Projects are still being uploaded from my previous little cluttered git profile)
