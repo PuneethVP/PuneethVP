@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-###
+- I am current graduate student majoring in Compter and Information science / Information System Majoring in Data Science and Analytics with focus on Machine Learning and Deep Learning Applications
+- I have a three years of Experience as a Software Engineeer in Development and Analyst roles working in a Agile based environment developing and designing secure, scalable, and quality software solution utilising software tools such as Java full stack, MERN full stack and DevOps.
+- During these three years of professional experience, my personal learning curve includes Cloud Technologies, Data Science and Data Analytics
 
 
 ### 🔭 I’m currently working on
