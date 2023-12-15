@@ -32,6 +32,17 @@
 ### Certifications
 - [Azure Cloud Fundamental (AZ-900)](https://www.credly.com/badges/04afa1b1-f74c-40b8-935d-28cb9ecebaac/public_url)
 - [Python Full Stack Developer](https://www.udemy.com/certificate/UC-c3b2f997-cac1-4d7e-a0d4-43dca16710a5/)
+
+### 🔭 I’m currently working on
+  - Machine Learning models Applications in Software development Lifecycle like Automate querying through prompt, Audio recognition and identification of most probably likable songs in Music application, Usage of Prompt data engineering using Snowflakes BUILD using Llama model, and End-to-End MERN-based containerized Applications.
+  - Project and Program Management skills for delivering continuous quality applications.
+
+### 🌱 I’m currently learning and deep diving
+  - Fine-tuning LLM models
+  - NLP and Computer Vision models
+  - ML application in software tools improves productivity
+
+
 <!--
 **PuneethVP/PuneethVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
