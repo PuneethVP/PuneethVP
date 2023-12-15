@@ -43,6 +43,7 @@
   - ML application in software tools improves productivity
 
 
+Note : (This is a fresh Git Profile  for better viewing for portfolio purpose and Projects are still being uploaded from my previous little cluttered git profile)
 <!--
 **PuneethVP/PuneethVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
