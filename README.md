@@ -22,7 +22,7 @@
 ### Software Tools / Libraries / Frameworks
 - **Frameworks:** Spring MVC, Django
 - **Data Science Libraries:** Numpy, TensorFlow, PyTorch, Keras, Pandas
-- **Database Tools:** Snowflakes, Mage AI, Looker Studio
+- **Data Engineering Tools:** Snowflakes, Mage AI, Looker Studio, Apache AirFlow
 - **Other Tools:** Apache Airflow, Power BI, Tableau
 
 - **Utilized Cloud Tech** - AWS S3 storage, Google Cloud storage, Azure Blob Storage, Railway deployment platform, Kubernetes, Docker, Red Hat OpenShift Platform
