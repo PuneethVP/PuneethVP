@@ -4,7 +4,7 @@
 
 
 ### 🔭 I’m currently working on
-  - Machine Learning models Application in Software development Lifecycle like Automamte querying through prompt, Audio recognition and identification of most probably likeable songs in Music application, Usage of Prompt based data engineering using Snowflakes BUILD and End-to-End MERN based containerised Application.
+  - Machine Learning models Applications in Software development Lifecycle like Automate querying through prompt, Audio recognition and identification of most probably likable songs in Music application, Usage of Prompt data engineering using Snowflakes BUILD using Llama model, and End-to-End MERN-based containerized Applications.
 
 ### 🌱 I’m currently learning and deep diving
   - Fine tuning LLM models
@@ -17,9 +17,9 @@
 - **Operating Systems:** Linux
 - **Data Structures and Algorithms**
 - **Cloud and Platforms:** Kubernetes, Red Hat OpenShift, Docker
-- **Frameworks:** Spring MVC
+- **Frameworks:** Spring Boot, Spring MVC
 - **ETL (Extract, Transform, Load) Pipeline** : Mage-Ai, Apache Airflow, Snowflakes
-- **Deep Learning**
+- **Deep Learning** , **Transfer Learning**
 
 ### Software Tools / Libraries / Frameworks
 - **Frameworks:** Spring MVC, Django
