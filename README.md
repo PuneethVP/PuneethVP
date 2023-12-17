@@ -27,7 +27,7 @@
 
 - **Utilized Cloud Tech** - AWS S3 storage, Google Cloud storage, Azure Blob Storage, Railway deployment platform, Kubernetes, Docker, Red Hat OpenShift Platform
 - **Utilized Application Development Tech** - Python And Django Full stack, MERN full stack, Java full stack (Spring Frame Work), VS Code, Jenkins, Eco Pipeline, Docker containerization of NodeJs application, Linux, SQL
-- **Utilized Data Science Tech** - Data Analytics using Python, Data Warehousing and BI, PyTorch, TensorFlow, Pandas, Numpy, Keras, SentenceTransformer library, Word2Vec, Transfer Learning models, SQL, Looker studio, and Tableau
+- **Utilized Data Science Tech** - Data Analytics using Python, Data Warehousing and BI, PyTorch, TensorFlow, Pandas, Numpy, Keras, SentenceTransformer library, Word2Vec, Transfer Learning models,BigQuery, AWS, Google cloud, Azure, SQL, Looker studio, and Tableau
 
 ### 🥇 Certifications
 - [Azure Cloud Fundamental (AZ-900)](https://www.credly.com/badges/04afa1b1-f74c-40b8-935d-28cb9ecebaac/public_url)
