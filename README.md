@@ -39,8 +39,9 @@
 
 ### 🌱 I’m currently learning and deep diving
   - LLM models
-  - NLP and Computer Vision applications
+  - Snowflakes native BUILD apps using fine tunes LLM prompt and openAi api
   - ML application in software tools that improves productivity
+  - Certifications jouney in progress - AWS develeoper and Google Data Engineering Certificate
 
 <!--
 **PuneethVP/PuneethVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
