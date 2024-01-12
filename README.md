@@ -8,7 +8,7 @@
 - **Databases:** SnowflakesDB, MongoDB, SQL
 - **Operating Systems:** Linux
 - **Data Structures and Algorithms**
-- **Cloud and Platforms:** Kubernetes, Red Hat OpenShift, Docker
+- **Cloud and Platforms:** Kubernetes, Red Hat OpenShift, Docker, Amazone EKS
 - **Frameworks:** Spring Boot, Spring MVC, Django
 - **ETL (Extract, Transform, Load) Pipeline** : Mage-Ai, Apache Airflow, Snowflakes
 - **Deep Learning** , **Transfer Learning**
