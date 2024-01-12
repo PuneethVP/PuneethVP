@@ -1,7 +1,7 @@
 ### Hi there 👋 🤵‍♂️:
 - I am Puneeth Virushabadas !! A current graduate student majoring in Computer and Information science / Information System Majoring in Data Science and Analytics with a focus on Machine Learning and Deep Learning Applications
 - I have three years of Experience as a Software engineer in Development and Analyst roles working in an Agile-based environment, developing and designing secure, scalable, and quality software solutions utilizing software tools such as Java full stack, Sprign framework, SQL, MERN full stack, and DevOps.
-- During these three years of professional experience, my learning curve topics includes Cloud Technologies, Data Science and Data Analytics
+- Current research interest include developing and tuning Deep Learning models for productivity in software tools and also for real-time applications.
   
 ### 👯 I’m looking to collaborate on
 - To Intern in an organisation which is Data Driven, Cloud based and keen on research related to ML based solutions for Software Development Lifecycle, Data Engineering, Cloud platform management or Container Orchestration.
