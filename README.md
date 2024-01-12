@@ -34,13 +34,11 @@
 - [Python Full Stack Developer](https://www.udemy.com/certificate/UC-c3b2f997-cac1-4d7e-a0d4-43dca16710a5/)
 
 ### 🔭 I’m currently working on
-  - Machine Learning models Applications in Software development Lifecycle like Automate querying through prompt, Audio recognition and identification of most probably likable songs in Music application, Usage of Prompt data engineering using Snowflakes BUILD using Llama model, and End-to-End MERN-based containerized Applications.
-  - Project and Program Management skills for delivering continuous quality applications.
+  - Deep learning model for detecting the disease using chest XRAYs images
 
 ### 🌱 I’m currently learning and deep diving
-  - LLM models
-  - Snowflakes native BUILD apps using fine tunes LLM prompt and openAi api
-  - ML application in software tools that improves productivity
+  - ML and Deep Learning application in software tools that improves productivity
+  - GANs and Generative AI
   - Certifications jouney in progress - AWS develeoper and Google Data Engineering Certificate
 
 <!--
