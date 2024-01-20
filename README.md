@@ -25,7 +25,7 @@
 - **Utilized Data Science Tech** - Data Analytics using Python, Data Warehousing and BI, PyTorch, TensorFlow, Pandas, Numpy, Keras, SentenceTransformer library, Word2Vec, Transfer Learning models,BigQuery, AWS, Google cloud, Azure, SQL, Looker studio, and Tableau
 
 ### 👯 I’m looking to collaborate on
-- To Intern in an organisation which is Data Driven, Cloud based and keen on research related to ML based solutions for Software Development Lifecycle, Data Engineering, Cloud platform management or Container Orchestration.
+- To Intern in an organisation which is Data Driven, Cloud based and keen on research related to ML based solutions for Software Development Lifecycle, Data Engineering, Cloud platform management or ML platform Management / Container Orchestration.
 - To develope ideas to enhance Software tools for better productivity in diverse fields.
 - Project/ Program Management skill learning as a group or an environment which enables me to implement my Program or Project Management skills
 
