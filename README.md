@@ -40,7 +40,7 @@
 ### 🌱 I’m currently learning and deep diving
   - ML and Deep Learning application in software tools that improves productivity
   - GANs and Generative AI
-  - Certifications jouney in progress - AWS develeoper and Google Data Engineering Certificate
+  - Certifications jouney in progress - AWS Associate Solution Architect and Google Data Engineering Certificate
 
 <!--
 **PuneethVP/PuneethVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
