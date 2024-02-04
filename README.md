@@ -1,7 +1,7 @@
 ### Hi there 👋 🤵‍♂️:
 - I am Puneeth Virushabadas !! A current graduate student majoring in Computer and Information science / Information System Majoring in Data Science and Analytics with a focus on Machine Learning and Deep Learning Applications and Tools
-- I have three years of Experience as a Software engineer in Development and Analyst roles working in an Agile-based environment, developing and designing secure, scalable, and quality software solutions
-- Current research interest include developing and tuning Deep Learning models for productivity in software tools, Data Visualisation, Analytics for real-time applications.
+- I have three years of Experience as a Software engineer and Analyst roles working in an Agile-based environment, developing and designing secure, scalable, and quality software solutions
+- Current research interest include developing and tuning Deep Learning models for productivity in software tools, Data Visualisation, Business Intelligence and Data Analytics for real-time applications.
 
 ### 👨‍💻 Technical Skills :
 - **Programming Languages:** Python, R, Java, JavaScript, C/C++
