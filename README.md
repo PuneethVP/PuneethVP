@@ -8,7 +8,8 @@
 - **Databases:** SnowflakesDB, MongoDB, SQL
 - **Operating Systems:** Linux
 - **Data Structures and Algorithms**
-- **Cloud and Platforms:** Kubernetes, Red Hat OpenShift, Docker, Amazone EKS
+- **Business Intelligence Analytics** : Tableau, Data Storytelling, Hypothesis testing, Applied Experiments, KPI, Dashboard Creation, Data Modelling, ETL pipelines
+- **Cloud and Platforms:** Kubernetes, Red Hat OpenShift, Docker, AWS, S3, Azure, GCP BigQuery, GCP storage, Amazon EKS, AWS EC2
 - **Frameworks:** Spring Boot, Spring MVC, Django
 - **ETL (Extract, Transform, Load) Pipeline** : Mage-Ai, Apache Airflow, Snowflakes
 - **Deep Learning** , **Transfer Learning**
@@ -20,7 +21,7 @@
 - **Data Engineering Tools:** Snowflakes, Mage AI, Looker Studio, Apache AirFlow
 - **Other Tools:** Apache Airflow,  Tableau
 
-- **Utilized Cloud Tech** - AWS S3 storage, Google Cloud storage, Azure Blob Storage, Railway deployment platform, Kubernetes, Docker, Red Hat OpenShift Platform
+- **Utilized Cloud Tech** - AWS S3 storage, Google Cloud storage, Azure Blob Storage, Railway deployment platform, Kubernetes, Docker
 - **Utilized Application Development Tech** - Python And Django Full stack, MERN full stack, Java full stack (Spring Frame Work), VS Code, Jenkins, Eco Pipeline, Docker containerization of NodeJs application, Linux, SQL
 - **Utilized Data Science Tech** - Data Analytics using Python, Data Warehousing and BI, PyTorch, TensorFlow, Pandas, Numpy, Keras, SentenceTransformer library, Word2Vec, Transfer Learning models,BigQuery, AWS, Google cloud, Azure, SQL, Looker studio, and Tableau
 
