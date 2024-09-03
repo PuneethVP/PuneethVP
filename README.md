@@ -26,9 +26,7 @@
 - **Utilized Data Science Tech** - Data Analytics using Python, Data Warehousing and BI, PyTorch, TensorFlow, Pandas, Numpy, Keras, SentenceTransformer library, Word2Vec, Transfer Learning models,BigQuery, AWS, Google cloud, Azure, SQL, Looker studio, and Tableau
 
 ### 👯 I’m looking to collaborate on
-- To Intern in an organisation which is Data Driven, Cloud based and keen on research related to ML based solutions for Software Development Lifecycle, Data Engineering, Cloud platform management or ML platform Management / Container Orchestration.
-- To develope ideas to enhance Software tools for better productivity in diverse fields.
-- Project/ Program Management skill learning as a group or an environment which enables me to implement my Program or Project Management skills
+- To Intern in an organisation which is Data Driven, Cloud based and keen on research related to ML based solutions for Data Analytics, Software Development Lifecycle, Data Engineering, Cloud platform management or ML platform Management / Container Orchestration.
 
 
 ### 🥇 Certifications
@@ -38,10 +36,10 @@
 ### 🔭 I’m currently working on
   - Deep learning model for detecting the disease using chest XRAYs images
 
-### 🌱 I’m currently learning and deep diving
+### 🌱 I’m currently deep diving into
   - ML and Deep Learning application in software tools that improves productivity
-  - GANs and Generative AI
-  - Certifications jouney in progress - AWS Associate Solution Architect and Google Data Engineering Certificate
+  - LLMs, and RAGs
+  - Certifications journey in progress - Google Data Analyst Certificate
 
 <!--
 **PuneethVP/PuneethVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile...
