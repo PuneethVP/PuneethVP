@@ -4,8 +4,11 @@ I am Puneeth Virushabadas!! I am a current graduate student majoring in Computer
 - I have three years of Experience as a Software engineer and Analyst roles working in an Agile-based environment, developing and designing secure, scalable, and quality software solutions
 - My research interests include developing and tuning ML and Deep Learning models for forecasting, customer segmentation, Business Intelligence, and Data Analytics.
 - Recent research work with DataWorld company to analyze LLMs' accuracy and understanding ( black box testing ) on health FHIR databases utilizing knowledge graphs. Implemented different prompting techniques to improve SPARQL query generation with the FHIR database.
+<br><br>
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
 <br><br>
 
 ### 👨‍💻 Technical Skills :
