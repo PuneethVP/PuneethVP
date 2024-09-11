@@ -44,9 +44,6 @@ I am **Puneeth Virushabadas**! I am currently a graduate student majoring in Com
 - [Azure Cloud Fundamental (AZ-900)](https://www.credly.com/badges/04afa1b1-f74c-40b8-935d-28cb9ecebaac/public_url)
 - [Python Full Stack Developer](https://www.udemy.com/certificate/UC-c3b2f997-cac1-4d7e-a0d4-43dca16710a5/)
 
-## 🔭 I’m currently working on:
-- A deep learning model for disease detection using chest X-ray images.
-
 ## 🌱 I’m currently deep diving into:
 - Machine learning and deep learning applications that drive businesses to make informed data-driven decisions.
 - LLMs and Retrieval-Augmented Generation (RAG) models.
